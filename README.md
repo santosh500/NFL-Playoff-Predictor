@@ -1,5 +1,7 @@
 # NFL_Playoff_Predictor
 
+by Paul Charles
+
 Goal of the Project:
 -The ultimate goal of the project is to determine whether an NFL team will make the playoffs or not based on various classification methods based on offensive statistics.
 
